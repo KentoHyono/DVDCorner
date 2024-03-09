@@ -1,1 +1,3 @@
-print('Hello world')
+from display import run
+
+run()
